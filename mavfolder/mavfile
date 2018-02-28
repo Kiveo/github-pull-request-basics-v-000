@@ -1,0 +1,3 @@
+def samplemethod
+  puts "This is a sample method"
+end
